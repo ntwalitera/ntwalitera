@@ -9,7 +9,9 @@
 ### Some Stats
 ![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwalitera)](https://github.com/ntwalitera/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ntwalitera)](https://github.com/ntwalitera/github-readme-stats)
+
 
 
 
