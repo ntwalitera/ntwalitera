@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Terance
 
-Here are some ideas to get you started:
-
 - 🔭 I’m Terance Ntwali
 - 🏢 I work at a company called Afrinnovat
 - 😄 Pronouns: he/him/his
