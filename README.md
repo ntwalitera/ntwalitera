@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m Terance Ntwali
 - 🏢 I work at a company called Afrinnovat
 - 😄 Pronouns: he/him/his
-- Company email: terance@afrinnovat.com
+- 📧 Email: terance@afrinnovat.com
 - ⚡ Fun fact: I love you
 
 ### Some Stats
