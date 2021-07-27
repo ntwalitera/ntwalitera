@@ -11,10 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love you
 
+### Some Stats
 ![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwalitera)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
