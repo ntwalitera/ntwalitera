@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 
 ![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true&theme=radical)
 
-[![Terance Ntwali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ntwalitera)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ntwalitera)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
