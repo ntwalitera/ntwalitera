@@ -10,6 +10,6 @@
 ![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&langs_count=8&layout=compact&theme=radical)](https://github.com/ntwalitera/github-readme-stats)
 
 
