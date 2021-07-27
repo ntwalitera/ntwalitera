@@ -10,7 +10,7 @@
 ![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)    [![Terance Ntwali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ntwalitera&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)    [![Terance Ntwali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)
 
 
 
