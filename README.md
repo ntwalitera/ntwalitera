@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwalitera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwalitera)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
