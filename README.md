@@ -5,7 +5,7 @@
 
 - 🌱 My Stack **C#, VB.Net, Javascript, JQuery || ASP MVC, AspNetCore, Blazor wasm || Xamarin Forms, .Net Maui || WPF, Winforms, WCF || Microsoft SQL Server, MySQL**
 
-- 💬 Ask me about **C# , VB.Net , Javascript**
+- 💬 Ask me about **C# , VB.Net , Javascript, Python**
 
 - 📫 How to reach me **ntwalitera@gmail.com**
 
