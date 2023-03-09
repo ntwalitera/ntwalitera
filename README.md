@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Terance</h1>
 
-🔭 I am a **Software Architect || DevOps Engineer || Back End Developer || Mobile Engineer** from Kigali Rwanda
+🔭 I am a **Child Of God || Software Architect || DevOps Engineer || Back End Developer || Mobile Engineer** from Kigali Rwanda
 
 - 🌱 My Stack **C#, VB.Net, Javascript, JQuery || ASP MVC, AspNetCore, Blazor wasm || Xamarin Forms, .Net Maui || WPF, Winforms, WCF || Microsoft SQL Server, MySQL**
 
