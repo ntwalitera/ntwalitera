@@ -25,20 +25,43 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)   
 
 
-### 🔮 Languages and Tools
+#### Languages
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![CPlusPlus](https://img.shields.io/badge/-cplusplus-333333?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
----
 
-<div align="center">
-  <code>
-    <img class="img" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img class="img" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </code>
-</div>
+#### Frameworks
+![dotnet](https://img.shields.io/badge/-dotnet-333333?style=flat&logo=dotnet)
+![ASP.Net](https://img.shields.io/badge/-ASP.Net-333333?style=flat&logo=dotnet)
+![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=Blazor)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=Xamarin)
+![MAUI](https://img.shields.io/badge/-MAUI-333333?style=flat&logo=dotnet)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+
+
+#### Editor
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=purple)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+#### Database
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+
+
+
+## Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ntwali-terance-904963122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jihadkhawaja-dark?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ntwalitera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jihadkhawaja-dark?style=flat-square&logo=gmail"></a>
+</p>
