@@ -46,4 +46,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ntwali-terance-904963122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ntwalitera-dark?style=flat-square&logo=linkedin"></a>
   <a href="mailto:ntwalitera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ntwalitera-dark?style=flat-square&logo=gmail"></a>
+  <a href="https://api.whatsapp.com/send?phone=+250781607720&text=Hello%20Terance!%20%F0%9F%91%8B%F0%9F%8F%BB"><img alt="Email" src="https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=whatsapp&style=social"></a>
 </p>
