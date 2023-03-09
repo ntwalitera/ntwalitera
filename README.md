@@ -1,4 +1,7 @@
-<img height="400" width="auto" src="https://media.giphy.com/media/7ltN7lCgF2MQE/giphy.gif">
+## Tech Stacks
+<img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+
+
 <h1 align="center">Hi 👋, I'm Terance</h1>
 
 🔭 I am a **Software Architect || DevOps Engineer || Back End Developer || Mobile Engineer** from Kigali Rwanda
