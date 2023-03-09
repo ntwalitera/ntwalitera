@@ -6,13 +6,6 @@
 - 🌱 My Stack **C#, VB.Net, Javascript, JQuery || ASP MVC, AspNetCore, Blazor wasm || Xamarin Forms, .Net Maui || WPF, Winforms, WCF || Microsoft SQL Server, MySQL**
 
 
-
-### Some Stats
-![Terance Ntwali's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesmontemagno&langs_count=8&layout=compact)](https://github.com/ntwalitera/github-readme-stats)   
-
-
 #### Languages
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
 ![CPlusPlus](https://img.shields.io/badge/-cplusplus-333333?style=flat&logo=cplusplus)
