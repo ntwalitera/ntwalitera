@@ -44,6 +44,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
 
+### Some Stats
+![Laurien Sheja's github stats](https://github-readme-stats.vercel.app/api?username=ntwalitera&show_icons=true&theme=radical)
+
 
 ## Connect With Me
 <p align="center">
